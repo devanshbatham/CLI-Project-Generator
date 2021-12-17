@@ -1,2 +1,2 @@
 ## Pyapp
-A simple utility for creating basic python project structure.
+A simple utility for creating basic python CLI project structure.
